@@ -1,0 +1,1 @@
+{title="My Website",root="home",pages={home={{type="text",content="Welcome to my website!",},{type="text",content="Here is a list of things I need to do:",},{type="container",content={{type="text",content="1. Add Styles To Lua Net",},{type="text",content="2. Add More Elements",},{type="text",content="3. Make official website",},},},},}}
